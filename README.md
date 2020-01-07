@@ -11,7 +11,7 @@ To start the project:
 After commands are run, a locally hosted version of the project can be found at: http://localhost:3000
 
 ## What You're Getting
-
+```bash
 ├── README.md - This file.
 ├── SEARCH_TERMS.md # The whitelisted short collection of available search terms to use with the app.
 ├── package.json # npm package manager file.
@@ -33,6 +33,7 @@ After commands are run, a locally hosted version of the project can be found at:
     │   └── SearchPage #Search page to add books to shelves
     ├── index.css # Global styles. 
     └── index.js # You should not need to modify this file. It is used for DOM rendering only.
+```
 
 ## Bookshelf Functionality
 This app allows you to search for new books and add searched books to your personal bookshelves by updating the book status.
