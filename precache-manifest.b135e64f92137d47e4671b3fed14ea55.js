@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2ea57459c4da85dc22f5",
+    "revision": "48b201f01b9be5e1b3c4",
     "url": "/reactnd-project-myreads-starter/static/css/main.c60c8c66.chunk.css"
   },
   {
-    "revision": "2ea57459c4da85dc22f5",
-    "url": "/reactnd-project-myreads-starter/static/js/main.2ea57459.chunk.js"
+    "revision": "48b201f01b9be5e1b3c4",
+    "url": "/reactnd-project-myreads-starter/static/js/main.48b201f0.chunk.js"
   },
   {
     "revision": "7a547191f3c7d0fbb231",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/reactnd-project-myreads-starter/static/media/arrow-back.3687aa98.svg"
   },
   {
-    "revision": "0c0793d4935154f0b62c33b1244bb8b7",
+    "revision": "dd93dc1322ddf886c046102f4245c7d9",
     "url": "/reactnd-project-myreads-starter/index.html"
   }
 ];
