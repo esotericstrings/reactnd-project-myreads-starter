@@ -10,7 +10,7 @@ To start the project:
 
 After commands are run, a locally hosted version of the project can be found at: http://localhost:3000
 
-A live version of this project can be found at: https://esotericstrings.github.io/reactnd-project-myreads-starter/
+A live version of this project can be found at: https://esotericstrings.github.io/reactnd-project-myreads-starter/ or https://myreads-eso.surge.sh/
 
 ## What You're Getting
 ```bash
